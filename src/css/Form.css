@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+input{
+  width: 29rem;
+  margin-left: 8px;
+  margin-top: 40px;
+}
+
+.form{
+  width: 30rem;
+  height: 25rem;
+  right: 5rem;
+  top: 43%;
+  float: right;
+  position: fixed;
+}
+
+.formulario{
+  width: 30rem;
+  height: 18.5rem;
+  right: 5rem;
+  top: 46%;
+  float: right;
+  position: fixed;
+  border-radius: 5px;
+  border: 1px solid  #384259;
+}
+
+.btn{
+  color: #fff;
+  background-color: #c900fe;
+}
+
+.usuario p {
+  color: #fff;
+  text-align: center;
+}
+
+.imagem img{
+  width: 30rem;
+  height: 19rem;
+  left: 20rem;
+  top: 46%;
+  float: left;
+  position: fixed;
+}

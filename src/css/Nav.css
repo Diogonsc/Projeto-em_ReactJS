@@ -1,0 +1,134 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.nav-bar hr{
+  margin-left: 0.5rem;
+  width: 15rem;
+  background-color: #fff;
+}
+.n h6, h4{
+  width: 3rem;
+  height: 2rem;
+  color: #fff;
+  margin-top: -38px;
+  margin-left: 10rem;
+}
+
+.nav{
+  width: 16rem;
+  height: 8rem;
+  left: 18rem;
+  top: 15%;
+  float: left;
+  position: fixed;
+  margin-top: -2.5em;
+  background-color: #384259;
+}
+
+.nav-01{
+  width: 16rem;
+  height: 8rem;
+  left: 36rem;
+  top: 15%;
+  float: left;
+  position: fixed;
+  margin-top: -2.5em;
+  background-color: #384259;
+}
+.nav-02{
+  width: 16rem;
+  height: 8rem;
+  left: 54rem;
+  top: 15%;
+  float: left;
+  position: fixed;
+  margin-top: -2.5em;
+  background-color: #384259;
+}
+.nav-03{
+  width: 15.9rem;
+  height: 8rem;
+  left: 72rem;
+  top: 15%;
+  float: left;
+  position: fixed;
+  margin-top: -2.5em;
+  background-color: #384259;
+}
+
+.io{
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 50%;
+  background-color: #f07b3f;
+}
+.fa-comments{
+  color: #fff;
+  margin-left: 10px;
+  margin-top: 11px;
+}
+.fa-redo-alt{
+  color: #fff;
+  margin-left: 10px;
+}
+
+.io-01{
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 50%;
+  background-color: #b61aae;
+}
+
+.fa-star{
+  color: #fff;
+  margin-left: 10px;
+  margin-top: 11px;
+}
+.fa-chart-bar{
+  color: #fff;
+  margin-left: 10px;
+}
+
+.io-02{
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 50%;
+  background-color: #0dceda;
+}
+
+.fa-user{
+  color: #fff;
+  margin-left: 12px;
+  margin-top: 11px;
+}
+.fa-trophy{
+  color: #fff;
+  margin-left: 10px;
+}
+
+.io-03{
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.fa-exclamation{
+  color: #fff;
+  margin-left: 17px;
+  margin-top: 12px;
+}
+.fa-clock{
+  color: #fff;
+  margin-left: 10px;
+}
+
